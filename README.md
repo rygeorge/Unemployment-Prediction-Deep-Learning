@@ -8,11 +8,11 @@ All data was sourced from Federal Reserve Economic Data (FRED). The datasets ran
 The raw FRED data can be found in the links below: 
 
 ### Historic Unemployment Data:
-- [Unemployment Rate](https://fred.stlouisfed.org/series/UNRATE#0)
+- [Unemployment Rate](https://fred.stlouisfed.org/series/UNRATE#0) (UNRATE.csv)
 
 ### Economic Indicators: 
-- [Real Gross Domestic Product (GDP)](https://fred.stlouisfed.org/series/GDPC1#0) (UNRATE.csv)
-- [Consumer Price Index (CPI)](https://fred.stlouisfed.org/series/CPIAUCSL#0) (GDPC1.csv)
+- [Real Gross Domestic Product (GDP)](https://fred.stlouisfed.org/series/GDPC1#0) (GDPC1.csv)
+- [Consumer Price Index (CPI)](https://fred.stlouisfed.org/series/CPIAUCSL#0) (CPIAUCSL.csv)
 - [Federal Funds Effective Rate](https://fred.stlouisfed.org/series/FEDFUNDS#0) (FEDFUNDS.csv)
 - [Industrial Production - Manufacturing](https://fred.stlouisfed.org/series/IPMAN#0) (IPMAN.csv)
 - [Labor Force Participation](https://fred.stlouisfed.org/series/CIVPART#0) (CIVPART.csv)
