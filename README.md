@@ -11,9 +11,9 @@ The raw FRED data can be found in the links below:
 - [Unemployment Rate](https://fred.stlouisfed.org/series/UNRATE#0)
 
 ### Economic Indicators: 
-- [Real Gross Domestic Product (GDP)](https://fred.stlouisfed.org/series/GDPC1#0)
-- [Consumer Price Index (CPI)](https://fred.stlouisfed.org/series/CPIAUCSL#0)
-- [Federal Funds Effective Rate](https://fred.stlouisfed.org/series/FEDFUNDS#0)
-- [Industrial Production - Manufacturing](https://fred.stlouisfed.org/series/IPMAN#0)
-- [Labor Force Participation](https://fred.stlouisfed.org/series/CIVPART#0)
+- [Real Gross Domestic Product (GDP)](https://fred.stlouisfed.org/series/GDPC1#0) (UNRATE.csv)
+- [Consumer Price Index (CPI)](https://fred.stlouisfed.org/series/CPIAUCSL#0) (GDPC1.csv)
+- [Federal Funds Effective Rate](https://fred.stlouisfed.org/series/FEDFUNDS#0) (FEDFUNDS.csv)
+- [Industrial Production - Manufacturing](https://fred.stlouisfed.org/series/IPMAN#0) (IPMAN.csv)
+- [Labor Force Participation](https://fred.stlouisfed.org/series/CIVPART#0) (CIVPART.csv)
 
