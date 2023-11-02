@@ -1,5 +1,5 @@
 # Unemployment-Prediction-Deep-Learning
-This repository contains the project code and data for our Topics in Economics - Deep Learning class at McGill University. As part of our final project, we are to explore a topic sourcing data and applying a deep learning method. The topic of choice is Unemployment Prediction using Deep Learning.  
+This repository contains the project code and data for our *Topics in Economics - Deep Learning* (ECON-420) course at McGill University. As part of our final project, we are to explore a topic sourcing data and applying a deep learning method. The topic of choice is Unemployment Prediction using Deep Learning.  
 
 # Data Sources
 All data was sourced from Federal Reserve Economic Data (FRED). The datasets range from January 1st, 1972 to July 1st, 2023, the data used to train the model can be found within this repository. 
