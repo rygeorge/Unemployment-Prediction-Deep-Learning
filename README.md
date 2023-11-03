@@ -16,4 +16,5 @@ The raw FRED data can be found in the links below:
 - [Federal Funds Effective Rate](https://fred.stlouisfed.org/series/FEDFUNDS#0) (FEDFUNDS.csv)
 - [Industrial Production - Manufacturing](https://fred.stlouisfed.org/series/IPMAN#0) (IPMAN.csv)
 - [Labor Force Participation](https://fred.stlouisfed.org/series/CIVPART#0) (CIVPART.csv)
-
+- [Velocity of M2 Money Stock](https://fred.stlouisfed.org/series/M2V) (M2V.csv)
+- [Personal Current Transfer Reciepts: Government social benefits to person: Social Security](https://fred.stlouisfed.org/series/W823RC1) (SOCSEC.csv)
