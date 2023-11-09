@@ -22,6 +22,11 @@ The raw FRED data can be found in the links below:
 # Tl;dr: 
 
 In short, here are the general findings/visualizations of the project. 
+## Visualization of Datasets: 
+![Alt text](Images/subplots.png)
+
+## Correlation Matrix: 
+![Alt text](Images/corr_matrix.png)
 
 ## Loss of LSTM: 
 ![Loss of LSTM Model](Images/lstm_loss.png)
